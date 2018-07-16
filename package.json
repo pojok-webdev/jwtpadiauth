@@ -1,0 +1,28 @@
+{
+  "name": "padiauth",
+  "version": "1.0.0",
+  "description": "jwt auth for padi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pojok-webdev/jwtpadiauth.git"
+  },
+  "keywords": [
+    "jwt",
+    "padiauth"
+  ],
+  "author": "puji wp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pojok-webdev/jwtpadiauth/issues"
+  },
+  "homepage": "https://github.com/pojok-webdev/jwtpadiauth#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0"
+  }
+}
